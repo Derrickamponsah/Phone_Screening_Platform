@@ -1,5 +1,7 @@
 # 📞 Phone Screening Platform
 
+**🚀 Live Demo:** [https://phone-screening-platform.onrender.com](https://phone-screening-platform.onrender.com)
+
 A modern, fast, and sleek Next.js application built to streamline the preliminary recruitment process. This platform allows recruiters to effortlessly generate context-aware interview questions, manage active jobs, and collect both text and audio responses from candidates via unique public links.
 
 ## ✨ Features
@@ -61,10 +63,7 @@ You need Node.js installed on your machine.
    npm run dev
    ```
 
-5. Open your browser and navigate to:
-   ```text
-   http://localhost:3000
-   ```
+**🌟 [CLICK HERE TO VIEW THE LIVE DEPLOYED PLATFORM](https://phone-screening-platform.onrender.com) 🌟**
 
 ## 📁 Project Structure
 
